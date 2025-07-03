@@ -218,7 +218,7 @@ class Card {
         <desc id="descId">${this.a11yDesc}</desc>
         <style>
           .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            font: 600 18px Poppins, 'Segoe UI', Sans-Serif;
             fill: ${this.colors.titleColor};
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
